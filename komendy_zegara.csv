@@ -1,0 +1,4 @@
+﻿typ czasu;czas;dni tygodnia;komenda;dane;moduł;grupa;nr;ON/OFF;czas;warunki
+W;30;PWRCTSN;P;;22;10;1;OFF;0;
+Z;10;PWRCTSN;P;;22;10;1;ON;0;
+H;12:36;PWRCTSN;P;;22;10;1;ON;0;
