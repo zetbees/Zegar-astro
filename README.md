@@ -1,4 +1,9 @@
 # Zegar-astro
+
+!!!
+PROGRAM DO URUCHOMIENIA TO: zegar_hapcan.py 
+!!!
+
 Program służący do czasowego włączania i wyłączania poszczególnych modułów przekaźników systemu Hapcan
 
 ver. alfa 0.1
